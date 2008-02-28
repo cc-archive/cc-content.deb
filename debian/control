@@ -1,0 +1,13 @@
+Source: cc-content
+Section: unknown
+Priority: extra
+Maintainer: Asheesh Laroia <asheesh@creativecommons.org>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: cc-content
+Architecture: all
+Depends: example-content, ${shlibs:Depends}, ${misc:Depends}
+Description: Creative Commons-licensed content
+ A selection of Creative Commons-licensed content originally from
+ the LiveContent project.

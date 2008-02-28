@@ -1,0 +1,17 @@
+cc-content (0.3) unstable; urgency=low
+
+  * Add "Wanna Work Together?" video to the top level.
+
+ -- Asheesh Laroia <asheesh@creativecommons.org>  Thu, 28 Feb 2008 10:21:26 -0800
+
+cc-content (0.2) unstable; urgency=low
+
+  * Use Jamendo Vorbis files instead of MP3s.
+
+ -- Asheesh Laroia <asheesh@creativecommons.org>  Wed, 27 Feb 2008 11:42:24 -0800
+
+cc-content (0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Asheesh Laroia <asheesh@creativecommons.org>  Tue, 26 Feb 2008 13:32:34 -0800
